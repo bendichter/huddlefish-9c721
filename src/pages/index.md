@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Huddle Fish
-    subtitle: Optional hero section subtitle
+    subtitle: Find
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
