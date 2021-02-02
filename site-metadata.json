@@ -8,7 +8,7 @@
     "header": {
         "title": "HuddleFish",
         "logo": "images/logo.svg",
-        "logo_alt": "DIY logo",
+        "logo_alt": "HuddleFish logo",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
