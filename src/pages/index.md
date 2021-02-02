@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Huddle Fish
-    subtitle: Find
+    subtitle: find a collaborator in an ocean of colleages
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
